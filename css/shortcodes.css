@@ -138,7 +138,7 @@
 }
 .bg-img1.prt-bg.prt-bgimage-yes > .prt-bg-layer { opacity: 0; }
 .bg-img2{
-    background-image: url(../images/bg-image/row-bgimage-2.jpg);
+    background-image: url(../images/dark-bg.avif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3079,6 +3079,9 @@ ul.prt-p_table-features li{
 .hero-section .hero-slide.slide-2{
     background-image: url(../images/banner2.png);
 }
+.hero-section .hero-slide.slide-3{
+    background-image: url(../images/banner3.PNG);
+}
 .hero-section .hero-slide.slide-1 .hero-content-block,
 .hero-section .hero-slide.slide-2 .hero-content-block{ position: relative; }
 
@@ -3638,7 +3641,7 @@ ul.prt-p_table-features li{
 
 /*** Color Switcher Style
 ==================================================================== ***/
-.prt_floting_customsett {
+. {
     position: fixed;
     top: 50%;
     right: 0;
