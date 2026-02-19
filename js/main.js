@@ -1,6 +1,6 @@
 /** ==========================================================================================
 
-  Project :   Medisat - Responsive Multi-purpose HTML5 Template
+  Project :   Nadi Vaidya - Responsive Multi-purpose HTML5 Template
   Version :   Bootstrap 5.3.3
   Author :    Preyantechnosys
 
