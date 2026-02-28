@@ -1,6 +1,6 @@
 /** ==========================================================================================
 
-  Project :   Nadi Vaidya - Responsive Multi-purpose HTML5 Template
+  Project :   Rohtak Hospital - Responsive Multi-purpose HTML5 Template
   Version :   Bootstrap 5.3.3
   Author :    Preyantechnosys
 
@@ -87,17 +87,17 @@ p {
     margin: 0 0 15px; 
 }
 *::-moz-selection { 
-    background: #1f6306; 
+    background: #1F6F5C; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #1f6306; 
+    background: #1F6F5C; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #1f6306; 
+    background: #1F6F5C; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -220,14 +220,14 @@ menu, ol, ul {
     --base-bodyfont: 'Poppins', sans-serif;
     --base-bodyfont-Size: 15px;
     --base-bodyfont-color: #888888;    
-    --base-skin: #ffcd1e;
-    --base-dark: #1f6306;
+    --base-skin: #39BFA7;
+    --base-dark: #222627;
     --base-darkblack: #000000;
     --base-grey: #f7f7f7;
     --base-white: #ffffff;
     --base-headingfont: 'Poppins', sans-serif;
     --base-headingfontone: 'SamarkanNormal';
-    --base-headingfont-color: #0e2207;
+    --base-headingfont-color: #052926;
 }
 
 /** Typo Colors **/
@@ -2093,7 +2093,7 @@ ul.footer-social-icons li a:hover { background-color: var(--base-dark); color: v
 ------------------------*/
 
 /*------------------------------------------------------------------------------*/
-/*  single_services
+/*  single_Treatments
 /*------------------------------------------------------------------------------*/ 
 .prt-service-single-content-area div:not(.featured-title) > h3 { font-size: 40px;line-height: 50px;margin-bottom: 28px; }
 .prt-service-single-content-area p:not(:last-child) { margin-bottom: 25px; }
@@ -2714,7 +2714,7 @@ ul.footer-social-icons li a:hover { background-color: var(--base-dark); color: v
 .comments-area_1 input[type="web"]:focus,
 .comments-area_1 input[type="url"]:focus { border: 1px solid var(--base-skin); }
 .comments-area_1 .prt-btn-color-skincolor:not(.btn-inline):before {
-    background-color: var(--base-dark);
+    background-color: #222;
 }
 
 

@@ -21,7 +21,7 @@ textarea::placeholder {
 
 .section-header h2 {
     font-size: 36px;
-    color: #0e2207;
+    color: #111111;
     margin-bottom: 15px;
 }
 
@@ -68,7 +68,7 @@ textarea::placeholder {
 
 .blog-content h3 {
     font-size: 18px;
-    color: #1f6306;
+    color: #1F6F5C;
     margin-bottom: 12px;
 }
 
@@ -84,7 +84,7 @@ textarea::placeholder {
 .read-more {
     display: inline-block;
     padding: 8px 18px;
-    background: #ffcd1e;
+    background: #39BFA7;
     color: #000000;
     font-size: 13px;
     text-decoration: none;
@@ -93,7 +93,7 @@ textarea::placeholder {
 }
 
 .read-more:hover {
-    background: #1f6306;
+    background: #1F6F5C;
     color: #ffffff;
 }
 
@@ -118,7 +118,7 @@ textarea::placeholder {
 
 
 .main-footer {
-    background: #0e2207;
+    background: #111111;
     color: #ffffff;
     padding: 80px 60px 30px;
 }
@@ -157,7 +157,7 @@ textarea::placeholder {
     content: "";
     width: 40px;
     height: 2px;
-    background: #ffcd1e;
+    background: #39BFA7;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -182,7 +182,7 @@ textarea::placeholder {
 }
 
 .footer-links ul li a:hover {
-    color: #ffcd1e;
+    color: #39BFA7;
     padding-left: 6px;
 }
 
@@ -201,7 +201,7 @@ textarea::placeholder {
 }
 
 .footer-contact i {
-    color: #ffcd1e;
+    color: #39BFA7;
     margin-right: 8px;
     font-size: 18px;
 }
@@ -213,7 +213,7 @@ textarea::placeholder {
 }
 
 .footer-contact a:hover {
-    color: #ffcd1e;
+    color: #39BFA7;
 }
 
 
@@ -300,7 +300,7 @@ body{
   background: none;
   border: none;
   text-decoration: none;
-  color: #010c1b;
+  color: #1C1C1C;
   font-size: 18px;
   font-weight: 500;
   cursor: pointer;
@@ -317,7 +317,7 @@ body{
   bottom: 0;
   width: 0;
   height: 2px;
-  background: #021729;
+  background: #39BFA7;
   transition: 0.3s ease;
 }
 
@@ -357,7 +357,7 @@ body{
   display: block;
   padding: 10px 18px;
   font-size: 17px;
-  color: #374151;
+  color: #1C1C1C;
 }
 
 .ph-drop-menu a:hover {
@@ -386,7 +386,7 @@ body{
 .ph-hamburger span {
   width: 26px;
   height: 3px;
-  background: #1f2937;
+  background: #1C1C1C;
   border-radius: 4px;
 }
 
@@ -488,37 +488,37 @@ body{
 .ph-enquire-btn {
   display: inline-block;
   padding: 10px 20px;
-  background: #ffcd1e;
-  color: #0e2207;
+  background: #39BFA7;
+  color: #111111;
   font-size: 14px;
   font-weight: 600;
   text-decoration: none;
   border-radius: 40px;
   letter-spacing: 0.5px;
   transition: all 0.35s ease;
-  box-shadow: 0 8px 20px rgba(206, 167, 26, 0.35);
+  box-shadow: 0 8px 20px rgba(26, 206, 176, 0.35);
   position: relative;
   overflow: hidden;
 }
 
 .ph-enquire-btn.btn2{
-  box-shadow: 0 8px 20px rgba(31, 99, 6, 0.35);
-  background: #1f6306;
+  box-shadow: 0 8px 20px rgba(6, 99, 76, 0.35);
+  background: #1F6F5C;
   color: white;
   margin-left: 5px;
 }
 
 /* Hover Effect */
 .ph-enquire-btn:hover {
-  background: #1f6306;
+  background: #1F6F5C;
   color: #ffffff;
-  box-shadow: 0 12px 25px rgba(255, 205, 30, 0.35);
+  box-shadow: 0 12px 25px rgba(63, 126, 115, 0.35);
   transform: translateY(-3px);
 }
 
 .ph-enquire-btn.btn2:hover{
-  background: #ffcd1e;
-  box-shadow: 0 12px 25px rgba(31, 99, 6, 0.4);
+  background: #39BFA7;
+  box-shadow: 0 12px 25px rgba(6, 99, 79, 0.4);
 }
 
 /* Click Effect */
@@ -595,12 +595,7 @@ body{
   text-align: center;
 
   /* Soft Ayurvedic Gradient */
-  background: linear-gradient(
-    135deg,
-    #ffffff 0%,
-    #f7fbf4 40%,
-    #fdf9e6 100%
-  );
+  background: #F5F7F8;
 }
 
 .nv-about-container {
@@ -611,21 +606,21 @@ body{
 .nv-about-heading {
   font-size: 34px;
   font-weight: 700;
-  color: #1b5e20;
+  color: #111111;
   margin-bottom: 12px;
 }
 
 .nv-about-divider {
   width: 70px;
   height: 3px;
-  background: linear-gradient(to right, #1b5e20, #d4af37);
+  background: linear-gradient(to right, #111111, #39BFA7);
   margin: 0 auto 25px;
   border-radius: 5px;
 }
 
 .nv-about-subtext {
   font-size: 19px;
-  color: #4e6b4e;
+  color: #555555;
   max-width: 750px;
   margin: 0 auto 25px;
   line-height: 1.7;
@@ -658,19 +653,19 @@ body{
 
 .nv-about-card i {
   font-size: 28px;
-  color: #d4af37;
+  color: #39BFA7;
   margin-bottom: 15px;
 }
 
 .nv-about-card h4 {
   font-size: 18px;
   margin-bottom: 10px;
-  color: #1b5e20;
+  color: #111111;
 }
 
 .nv-about-card p {
   font-size: 15px;
-  color: #666;
+  color: #555555;
 }
 
 .nv-about-card:hover {
@@ -681,7 +676,7 @@ body{
 .nv-about-closing {
   font-size: 16px;
   font-weight: 500;
-  color: #1b5e20;
+  color: #111111;
   max-width: 750px;
   margin: auto;
 }
@@ -694,5 +689,98 @@ body{
 
   .nv-about-card {
     width: 100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+.doctor-about-section {
+  padding: 100px 20px;
+  background: #ffffff;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Doctor Row */
+
+.doctor-row {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin-bottom: 70px;
+  flex-wrap: wrap;
+}
+
+.doctor-card {
+  text-align: center;
+  transition: 0.3s ease;
+}
+
+.doctor-card img {
+  width: 360px;
+  height: 360px;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.08);
+  margin-bottom: 20px;
+}
+
+.doctor-card h3 {
+  font-size: 22px;
+  color: #111111;
+  margin-bottom: 5px;
+}
+
+.doctor-card p {
+  font-size: 15px;
+  color: #39BFA7;
+  font-weight: 500;
+}
+
+/* About Content */
+
+.about-content {
+  text-align: center;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.about-content h2 {
+  font-size: 36px;
+  color: #111111;
+  margin-bottom: 25px;
+}
+
+.about-content p {
+  font-size: 17px;
+  color: #555555;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+  .doctor-row {
+    gap: 40px;
+  }
+
+  .doctor-card img {
+    width: 200px;
+    height: 200px;
+  }
+
+  .about-content h2 {
+    font-size: 28px;
   }
 }
